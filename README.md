@@ -4,7 +4,7 @@ This project was built as part of the Learn React course on Scrimba. I highly re
 
 
 ## Additional features:
--Moves counter.
--Best score tracking and local storage.
--Remove best score.
--Difficulty levels where numbers go higher or lower.
+*Moves counter.
+*Best score tracking and local storage.
+*Remove best score.
+*Difficulty levels where numbers go higher or lower.
